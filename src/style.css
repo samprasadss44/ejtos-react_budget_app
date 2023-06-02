@@ -1,0 +1,41 @@
+/* styles.css */
+.select-box {
+    color: #fff; /* Change the text color */
+    background-color: rgb(29, 180, 218); /* Change the background color */
+    /* Add any other styles you want to apply */
+  }
+  .select-box option {
+    color: #000000; /* text color of options */
+    background-color: #1cd73f; /* background color of options */
+    /* Additional styles for the options */
+  }
+  .addButton {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    /* Additional styles as per your requirements */
+  }
+
+  .minusButton {
+    background-color: #dc3545;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    /* Additional styles as per your requirements */
+  }
+  
